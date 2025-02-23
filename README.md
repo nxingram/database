@@ -20,7 +20,7 @@ Corso base database dialetto MySQL<br>
    - esempi
       - modello concettuale
       - modello logico
-   - esercizio diagramma e-r 
+   - esercizio diagramma e-r libro-autore-editore
 7. TODO: Normalizzazione
 8. Tipi di dato
 9. Installazione MySQL e Workbench
