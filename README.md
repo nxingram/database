@@ -20,10 +20,11 @@ Corso base database dialetto MySql<br>
    - esempi
       - modello concettuale
       - modello logico  
-7. Normalizzazione
+7. TODO: Normalizzazione
 8. Tipi di dato
-9. Installazione MySql
-10. Accesso al DBMS
+9. Installazione MySql e Workbench
+    - video link
+11. Accesso al DBMS
    - admin
    - user
 11. SQL
