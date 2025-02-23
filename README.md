@@ -19,7 +19,8 @@ Corso base database dialetto MySQL<br>
          - cardinalità delle relazioni
    - esempi
       - modello concettuale
-      - modello logico  
+      - modello logico
+   - esercizio diagramma e-r 
 7. TODO: Normalizzazione
 8. Tipi di dato
 9. Installazione MySQL e Workbench
