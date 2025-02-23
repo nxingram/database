@@ -75,6 +75,9 @@ Corso base database dialetto MySQL<br>
 17. Backup e ripristino
 18. TODO: Indici
 
-## link utili
+## Insatallazione (Windows)
+- [MySQL Server Community e Workbench](https://youtu.be/uRw5oNBLW6E)
+
+## Link utili
 - [Guida MySQL HTML.it](https://www.html.it/guide/guida-mysql/)
 
