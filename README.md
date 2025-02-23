@@ -72,6 +72,7 @@ Corso base database dialetto MySql<br>
 15. TODO: Viste
    - esercizio viste
 16. TODO: Subquery
+99. [Guida MySQL HTML.it](https://www.html.it/guide/guida-mysql/)
 17. Backup e ripristino
 18. TODO: Indici
 
