@@ -1,5 +1,5 @@
 # Database
-Corso base database dialetto MySql<br>
+Corso base database dialetto MySQL<br>
 
 ### Indice
 1. Database introduzione
@@ -22,7 +22,7 @@ Corso base database dialetto MySql<br>
       - modello logico  
 7. TODO: Normalizzazione
 8. Tipi di dato
-9. Installazione MySql e Workbench
+9. Installazione MySQL e Workbench
     - video link
 11. Accesso al DBMS
    - admin
@@ -72,7 +72,9 @@ Corso base database dialetto MySql<br>
 15. TODO: Viste
    - esercizio viste
 16. TODO: Subquery
-99. [Guida MySQL HTML.it](https://www.html.it/guide/guida-mysql/)
 17. Backup e ripristino
 18. TODO: Indici
+
+## link utili
+- [Guida MySQL HTML.it](https://www.html.it/guide/guida-mysql/)
 
