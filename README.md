@@ -10,8 +10,8 @@ Corso base database dialetto MySQL<br>
    - [RDBMS](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#rdbms-relational-database-management-system)
    - [storage engine](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#storage-engine-o-db-engine)
    - [charset](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#charset)
-5. Modello Relazionale
-   - diagramma E-R
+5. [Modello Relazionale](https://github.com/nxingram/database/blob/main/3.0%20Modello%20Relazionale.md#il-modello-relazionale)
+   - [simboli diagramma E-R](https://github.com/nxingram/database/blob/main/3.0%20Modello%20Relazionale.md#simboli-diagramma-e-r)
       - entità
       - attributi
          - PRIMARY KEY (PK)
