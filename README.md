@@ -3,7 +3,7 @@ Corso base database dialetto MySql<br>
 
 ### Indice
 1. Database introduzione
-   - cos'è
+   - definizione
    - file-server vs. client-server
    - RDBMS, ORDBMS, NoSQL
 3. DBMS: database management system
