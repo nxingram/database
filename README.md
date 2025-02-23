@@ -2,14 +2,14 @@
 Corso base database dialetto MySQL<br>
 
 ### Indice
-1. Database introduzione
-   - definizione
-   - file-server vs. client-server
+1. [Database introduzione](https://github.com/nxingram/database/blob/main/1.0%20Database%20introduzione.md#database-introduzione)
+   - [definizione](https://github.com/nxingram/database/blob/main/1.0%20Database%20introduzione.md#definizione)
+   - [file-server vs. client-server](https://github.com/nxingram/database/blob/main/1.0%20Database%20introduzione.md#db-client-server)
    - RDBMS, ORDBMS, NoSQL
-3. DBMS: database management system
-   - RDBMS
-   - storage engine
-   - charset
+3. [DBMS: database management system](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#dbms-database-management-system)
+   - [RDBMS](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#rdbms-relational-database-management-system)
+   - [storage engine](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#storage-engine-o-db-engine)
+   - [charset](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#charset)
 5. Modello Relazionale
    - diagramma E-R
       - entità
