@@ -2,21 +2,37 @@
 Corso base database dialetto MySql<br>
 
 ### Indice
-1. Database definizione
-2. DBMS
-3. Modello Relazionale
-4. Normalizzazione
-5. Tipi di dato
-6. Installazione MySql
-7. Accesso al DBMS
+1. Database introduzione
+   - cos'è
+   - file-server vs. client-server
+   - RDBMS, ORDBMS, NoSQL
+3. DBMS: database management system
+   - RDBMS
+   - storage engine
+   - charset
+5. Modello Relazionale
+   - diagramma E-R
+      - entità
+      - attributi
+         - PRIMARY KEY (PK)
+      - relazioni 
+         - cardinalità delle relazioni
+   - esempi
+      - modello concettuale
+      - modello logico  
+7. Normalizzazione
+8. Tipi di dato
+9. Installazione MySql
+10. Accesso al DBMS
    - admin
    - user
-8. SQL
+11. SQL
    - DDL: data definition language
       - creazione databse
          - cancellare 
       - creazione tabelle
-         - modificare tabelle 
+         - modificare tabelle
+      - esercizio ddl
    - DCL: data control language
       - controllo accessi e permessi
          - CREATE USER
@@ -28,12 +44,16 @@ Corso base database dialetto MySql<br>
          - create table select
          - duplicare tabelle e contenuti
       - UPDATE
-      - commenti 
+      - commenti
+      - esercizio dml
    - Query: query language
-      - TODO: 
-9. Integrità referenziale
-10. Union e Join
-11. Funzioni
+      - TODO:
+      - esercizio query studenti
+11. Integrità referenziale
+12. Union e Join
+   - esercizio query corsi
+   - esercizio query orsi join
+13. Funzioni
    - Aggregazione (avg, count, min-max, sum)
    - Matematiche (floor, ceiling, round, length, concat, concat_ws, substring, left-right)
        - funzioni combinate
@@ -44,9 +64,12 @@ Corso base database dialetto MySql<br>
           - calcoli date e orari (adddate, addtime, subdate, datediff, timestampadd, timestampdiff)
              - calcolare l'età 
    - Control flow function
+   - esercizio funzioni
 13. TODO: Raggruppamenti
+   - esercizio group by
 14. TODO: Windows Function (funzioni finestra)
 15. TODO: Viste
+   - esercizio viste
 16. TODO: Subquery
 17. TODO: Backup e ripristino
 18. TODO: Indici
