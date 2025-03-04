@@ -6,11 +6,11 @@ Corso base database dialetto MySQL<br>
    - [definizione](https://github.com/nxingram/database/blob/main/1.0%20Database%20introduzione.md#definizione)
    - [file-server vs. client-server](https://github.com/nxingram/database/blob/main/1.0%20Database%20introduzione.md#db-client-server)
    - RDBMS, ORDBMS, NoSQL
-3. [DBMS: database management system](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#dbms-database-management-system)
+2. [DBMS: database management system](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#dbms-database-management-system)
    - [RDBMS](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#rdbms-relational-database-management-system)
    - [storage engine](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#storage-engine-o-db-engine)
    - [charset](https://github.com/nxingram/database/blob/main/2.0%20DBMS.md#charset)
-5. [Modello Relazionale](https://github.com/nxingram/database/blob/main/3.0%20Modello%20Relazionale.md#il-modello-relazionale)
+3. [Modello Relazionale](https://github.com/nxingram/database/blob/main/3.0%20Modello%20Relazionale.md#il-modello-relazionale)
    - [simboli diagramma E-R](https://github.com/nxingram/database/blob/main/3.0%20Modello%20Relazionale.md#simboli-diagramma-e-r)
       - entità
       - attributi
@@ -21,14 +21,14 @@ Corso base database dialetto MySQL<br>
       - modello concettuale
       - modello logico
    - esercizio diagramma e-r libro-autore-editore
-7. Normalizzazione
-8. Tipi di dato
-9. Installazione MySQL e Workbench
+4. Normalizzazione
+5. Tipi di dato
+6. Installazione MySQL e Workbench
     - video link
-11. Accesso al DBMS
+7. Accesso al DBMS
    - admin
    - user
-11. SQL
+8. SQL
    - DDL: data definition language
       - creazione databse
          - cancellare 
@@ -51,11 +51,11 @@ Corso base database dialetto MySQL<br>
    - Query: query language
       - TODO:
       - esercizio query studenti
-11. Integrità referenziale
-12. Union e Join
+9. Integrità referenziale
+10. Union e Join
    - esercizio query corsi
-   - esercizio query orsi join
-13. Funzioni
+   - esercizio query corsi join
+11. Funzioni
    - Aggregazione (avg, count, min-max, sum)
    - Matematiche (floor, ceiling, round, length, concat, concat_ws, substring, left-right)
        - funzioni combinate
@@ -67,14 +67,14 @@ Corso base database dialetto MySQL<br>
              - calcolare l'età 
    - Control flow function
    - esercizio funzioni
-13. TODO: Raggruppamenti
+12. TODO: Raggruppamenti
    - esercizio group by
-14. TODO: Windows Function (funzioni finestra)
-15. TODO: Viste
+13. TODO: Windows Function (funzioni finestra)
+14. TODO: Viste
    - esercizio viste
-16. TODO: Subquery
-17. Backup e ripristino
-18. TODO: Indici
+15. TODO: Subquery
+16. Backup e ripristino
+17. TODO: Indici
 
 ## Insatallazione (Windows)
 - [MySQL Server Community e Workbench](https://youtu.be/uRw5oNBLW6E)
