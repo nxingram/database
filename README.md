@@ -49,8 +49,8 @@ Corso base database dialetto MySQL<br>
       - commenti
       - esercizio dml
    - Query: query language
-      - TODO:
       - esercizio query studenti
+      - esercizio creazione database corsi
 9. Integrità referenziale
 10. Union e Join
    - esercizio query corsi
@@ -67,10 +67,10 @@ Corso base database dialetto MySQL<br>
              - calcolare l'età 
    - Control flow function
    - esercizio funzioni
-12. TODO: Raggruppamenti
+12. Raggruppamenti
    - esercizio group by
 13. TODO: Windows Function (funzioni finestra)
-14. TODO: Viste
+14. Viste
    - esercizio viste
 15. TODO: Subquery
 16. Backup e ripristino
