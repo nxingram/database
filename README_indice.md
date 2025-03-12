@@ -51,11 +51,10 @@ Corso base database dialetto MySQL<br>
    - Query: query language
       - esercizio query studenti
       - esercizio creazione database corsi
-9. Integrità referenziale
-10. Union e Join
+9. Union e Join
    - esercizio query corsi
    - esercizio query corsi join
-11. Funzioni
+10. Funzioni
    - Aggregazione (avg, count, min-max, sum)
    - Matematiche (floor, ceiling, round, length, concat, concat_ws, substring, left-right)
        - funzioni combinate
@@ -67,13 +66,14 @@ Corso base database dialetto MySQL<br>
              - calcolare l'età 
    - Control flow function
    - esercizio funzioni
-12. Raggruppamenti
+11. Raggruppamenti
    - esercizio group by
-13. TODO: Windows Function (funzioni finestra)
+12. Integrità referenziale
+13. Subquery
 14. Viste
    - esercizio viste
-15. TODO: Subquery
-16. Backup e ripristino
+15. Backup e ripristino
+16. TODO: Windows Function (funzioni finestra)
 17. TODO: Indici
 
 ## Insatallazione (Windows)
