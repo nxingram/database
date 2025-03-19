@@ -1,7 +1,12 @@
 
 use elementi25_mondo;
 
+DROP TABLE IF EXISTS `city`;
+DROP TABLE IF EXISTS `countrylanguage`;
 DROP TABLE IF EXISTS `country`;
+
+
+
 CREATE TABLE `country` (
   `Code` char(3) NOT NULL DEFAULT '',
   `Name` char(52) NOT NULL DEFAULT '',
@@ -21,7 +26,7 @@ CREATE TABLE `country` (
   PRIMARY KEY (`Code`)
 ) ;
 
-DROP TABLE IF EXISTS `city`;
+
 CREATE TABLE `city` (
   `ID` int NOT NULL AUTO_INCREMENT,
   `Name` char(35) NOT NULL DEFAULT '',
@@ -35,7 +40,6 @@ CREATE TABLE `city` (
 
 
 
-DROP TABLE IF EXISTS `countrylanguage`;
 CREATE TABLE `countrylanguage` (
   `CountryCode` char(3) NOT NULL DEFAULT '',
   `Language` char(30) NOT NULL DEFAULT '',
