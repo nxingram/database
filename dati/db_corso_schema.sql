@@ -12,7 +12,7 @@ CREATE TABLE `studenti` (
   `ins` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`),
   UNIQUE KEY `email` (`email`)
-)
+);
 
 create table if not exists corsi(
 	id int auto_increment,
@@ -22,7 +22,7 @@ create table if not exists corsi(
     primary key(id)
 );
 
-drop table docenti;
+#drop table docenti;
 create table if not exists docenti(
 	id int auto_increment primary key,
 	nome varchar(50) not null,
