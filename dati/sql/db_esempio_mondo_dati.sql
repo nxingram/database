@@ -1,3 +1,8 @@
+--NON FUNZIONANTE:
+-- correggere escape \'
+--aggiungere SET IDENTITY_INSERT city ON/OFF;
+--aggiungere colonne ad INSERT INTO city 
+
 -- SQL Server version of db_esempio_mondo - COMPLETE DATA FILE
 -- Converted from MySQL format
 -- All countries, cities, and languages included
