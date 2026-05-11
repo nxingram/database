@@ -47,6 +47,6 @@ BEGIN
         studente_id int NOT NULL,
         corso_id int NOT NULL,
         prezzo decimal(6,2),
-        data_isc datetime2 DEFAULT GETDATE()
+        data_isc datetime2 NOT NULL DEFAULT GETDATE()
     );
 END
